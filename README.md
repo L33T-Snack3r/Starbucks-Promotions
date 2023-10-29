@@ -54,7 +54,7 @@ This was the notebook where all the work of this project (data cleaning, transfo
 This notebook was used to create the figures in the blog post. The input file is customer_summary.csv, which can be created by running Starbucks_Capstone_notebook.ipynb
 
 ## Findings
-The findings of this investigation are summarized in this [blog post](https://medium.com/@thefunnyonion/exploring-the-influencers-of-airbnb-review-ratings-unveiling-bostons-secrets-66f60181757a)
+The findings of this investigation are summarized in this [blog post](https://medium.com/@thefunnyonion/unlocking-the-maze-navigating-starbucks-app-user-incentives-71a2a74063f5)
 
 ## Licensing, Authors, Acknowledgements
 I would like to thank Udacity and Starbucks for making this data available. I would also like to acknoledge Harshal Soni and medium user RITHP, whose medium articles I referenced to implement hyperopt for parameter optimization. 
