@@ -32,21 +32,6 @@ Achieving the above goals could help Starbucks optimize profits by targeting pro
 
 ## Files in this repository
 
-#### portfolio.json
-This file contains information about the offers, including the offer id, the type of offer, and its duration. There are 3 types of offers in this dataset -buy one get one free (BOGO) offers, discount offers, and advertisements, but in this work, I focus only on BOGO and discount offers, of which there are 4 of each within this dataset.
-
-#### profile.json
-This file contains information about the app users, including age, gender, income and the date that they created an app account.
-
-#### transcript.json
-This file is a log of events related to each app user over a 30-day test period. Events include:
-- Offer received event
-- Offer viewed event
-- Offer completed event
-- Transaction event
-
-If the event is offer-related, the offer id is also recorded, but if the event is a transaction event, the amount spent is recorded instead. The time at which each event occurs (in hours since the start of the test) is also recorded.
-
 #### Starbucks_Capstone_notebook.ipynb
 This was the notebook where all the work of this project (data cleaning, transformation and analysis, and heuristic and model development) was conducted.
 
